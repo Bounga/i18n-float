@@ -4,7 +4,7 @@ I18nFloat
 Description
 -----------
 
-[Ruby](http://www.ruby-lang.org) gem to use with [Rails](http://www.rubyonrails.org). I18nFloat allows your users to use format number like "1 200,84" in forms. ActiveModel Float attributes don't care anymore if you like commas or dots!
+[Ruby](http://www.ruby-lang.org) gem to use with [Rails](http://www.rubyonrails.org). I18nFloat allows your users to use format number like "1 200,84" in forms. ActiveRecord Float attributes don't care anymore if you like commas or dots!
 
 Features:
 
