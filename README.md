@@ -11,7 +11,7 @@ Features:
 - comma for decimals
 - whitespace as separator 
 - standard format still usable
-- only a gem in your Gemfile and your good to go
+- only a gem in your Gemfile and you're good to go
 
 Installation
 ------------
