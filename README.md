@@ -40,7 +40,7 @@ If you want to contribute you should take a look at:
 - [Source Style](http://www.bitbucket.org/Bounga/i18nfloat/wiki/SourceStyle)
 - [Ticket Guidelines](http://www.bitbucket.org/Bounga/i18nfloat/wiki/TicketGuidelines)
 - [Contributing](http://www.bitbucket.org/Bounga/i18nfloat/wiki/Contributing)
-- [RDoc](http://rubydoc.info/gems/i18nfloat/0.0.1/frames)
+- [RDoc](http://rubydoc.info/gems/I18nFloat/)
 
 Problems, comments, and suggestions are welcome on the [ticket system](http://www.bitbucket.org/Bounga/i18nfloat/issues/new/).
 
